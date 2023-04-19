@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Atividade_Supermercado\bin\Debug\net7.0\Atividade_Supermercado.exe
+C:\Users\46291995867\Desktop\Atividade_Supermercado\bin\Debug\net7.0\Atividade_Supermercado.deps.json
+C:\Users\46291995867\Desktop\Atividade_Supermercado\bin\Debug\net7.0\Atividade_Supermercado.runtimeconfig.json
+C:\Users\46291995867\Desktop\Atividade_Supermercado\bin\Debug\net7.0\Atividade_Supermercado.dll
+C:\Users\46291995867\Desktop\Atividade_Supermercado\bin\Debug\net7.0\Atividade_Supermercado.pdb
+C:\Users\46291995867\Desktop\Atividade_Supermercado\obj\Debug\net7.0\Atividade_Supermercado.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Atividade_Supermercado\obj\Debug\net7.0\Atividade_Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Atividade_Supermercado\obj\Debug\net7.0\Atividade_Supermercado.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Atividade_Supermercado\obj\Debug\net7.0\Atividade_Supermercado.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Atividade_Supermercado\obj\Debug\net7.0\Atividade_Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Atividade_Supermercado\obj\Debug\net7.0\Atividade_Supermercado.dll
+C:\Users\46291995867\Desktop\Atividade_Supermercado\obj\Debug\net7.0\refint\Atividade_Supermercado.dll
+C:\Users\46291995867\Desktop\Atividade_Supermercado\obj\Debug\net7.0\Atividade_Supermercado.pdb
+C:\Users\46291995867\Desktop\Atividade_Supermercado\obj\Debug\net7.0\Atividade_Supermercado.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Atividade_Supermercado\obj\Debug\net7.0\ref\Atividade_Supermercado.dll
